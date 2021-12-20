@@ -34,3 +34,6 @@ El proceso se puede resumir en los siguientes pasos
 ## Demo
 https://framer.com/share/Hack-oudini--bcfdWKtipUxrv4P9Z4U4/tPXs5Djc3#tPXs5Djc3
 
+##Tiktok 
+https://www.tiktok.com/@sirjohn125/video/7043596397685361926?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7020516431687173637
+
