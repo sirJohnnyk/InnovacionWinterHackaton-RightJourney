@@ -40,5 +40,6 @@ El proceso se puede resumir en los siguientes pasos
 ## Integrantes 
 - sa318728@uaeh.edu.mx
 - juan.gonzalezf@alumno.buap.mx
-- 
+- uriel.Alatorre@comunidad.unam.mx
+- inv1020@innovaccion.mx
 
