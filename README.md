@@ -20,6 +20,7 @@ Las tecnologías usadas para ente proyecto son ampliamente basadas en Azure
 ## Diagrama de proceso
 En este diagrama se muestra el proceso de trabajo, posiblemente cambien según se haga más complejo el proceso de trabajo
 https://miro.com/app/board/uXjVOacnOsM=/?invite_link_id=106616686074
+<img src="/logo/diagrama.png" alt="Logo"/>
 
 
 ## Proceso
