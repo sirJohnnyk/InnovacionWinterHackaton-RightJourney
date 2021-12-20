@@ -13,7 +13,7 @@ Las tecnologías usadas para ente proyecto son ampliamente basadas en Azure
 - Cognitive Services 
     - Text Analytics
 - API de Twitter
-- 
+
     
 ## Diagrama de proceso
 En este diagrama se muestra el proceso de trabajo, posiblemente cambien según se haga más complejo el proceso de trabajo
