@@ -42,5 +42,5 @@ El proceso se puede resumir en los siguientes pasos
 - juan.gonzalezf@alumno.buap.mx
 - uriel.Alatorre@comunidad.unam.mx
 - inv1020@innovaccion.mx
-- 15980701@itroque.edu.mx
+- 15980701@itroque.edu.mx / inv3222@innovaccion.mx
 
