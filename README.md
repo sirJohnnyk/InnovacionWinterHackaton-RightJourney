@@ -1,6 +1,6 @@
 # Right Journey
 ## Elige el lugar perfecto para tu viaje de mochilero
-![Alt text]('/logo/RJ.png?raw=true "Title")
+<img src="/logo/RJ.png" alt="Logo"/>
 
 
 Right Journey es una aplicación que permite realizar búsqueda basada en parámetros dados por el usuario. El objetivo de esta aplicación web es dar recomendaciones de lugares, pero de aquellos que sean poco conocidos. De tal manera que el turismo sea más amplio y poco centralizado. 
